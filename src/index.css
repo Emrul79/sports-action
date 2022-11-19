@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.myhome{
+  background-image: url(./images/banner.jpg);
+    width: 100%;
+    opacity: 1;
+}
+.hero-banner-img{
+  width: 100%;
+  opacity: 0.5;
+}
+/* .logo{
+  width: 40px;
+} */
